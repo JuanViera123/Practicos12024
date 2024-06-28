@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Practico9.props" />
+</Project>
