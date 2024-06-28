@@ -1,0 +1,7 @@
+J:\source\projects\Practico2\Practico2\bin\Debug\Practico2.exe.config
+J:\source\projects\Practico2\Practico2\bin\Debug\Practico2.exe
+J:\source\projects\Practico2\Practico2\bin\Debug\Practico2.pdb
+J:\source\projects\Practico2\Practico2\obj\Debug\Practico2.csproj.AssemblyReference.cache
+J:\source\projects\Practico2\Practico2\obj\Debug\Practico2.csproj.CoreCompileInputs.cache
+J:\source\projects\Practico2\Practico2\obj\Debug\Practico2.exe
+J:\source\projects\Practico2\Practico2\obj\Debug\Practico2.pdb
